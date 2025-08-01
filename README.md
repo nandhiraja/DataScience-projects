@@ -1,8 +1,5 @@
 
-
-# The plotly module consist dashboard charts which are live charts. we can intract with them.
-[KAGGLE LINK ](https://www.kaggle.com/nandhirajak) .
-
+## [KAGGLE LINK ](https://www.kaggle.com/nandhirajak) .
 
 # Data Science Projects
 
@@ -42,6 +39,8 @@ Each project is organized into its own directory and contains:
 To work with the projects in this repository, ensure you have:
 - Python 3.8 or above
 - Popular data science libraries such as pandas, numpy, matplotlib, and scikit-learn
+- 
+# The plotly module consist dashboard charts which are live charts. we can intract with them.
 
 ## Installation
 1. Clone the repository:
